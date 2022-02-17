@@ -8,6 +8,7 @@ Now I'm in the process of improving my skills: C#/.NET
 
 I would describe myself as self-motivated, accurate, communicative and friendly.
 
+📌 [LinkedIn](https://www.linkedin.com/in/kristers-oskars-briedis/)
 ---
 
 <strong>Languages and Tools:</strong>
