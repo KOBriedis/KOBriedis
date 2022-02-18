@@ -1,5 +1,5 @@
 <center>
-    <img src="https://github.com/KOBriedis/KOBriedis/blob/main/assets/main_banner.gif" alt="centered image" />
+    <img src="https://github.com/KOBriedis/KOBriedis/blob/main/assets/main_banner.gif" alt="centered image" height="250px" />
 </center>
 
 ---
