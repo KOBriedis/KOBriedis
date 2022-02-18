@@ -3,10 +3,10 @@
 </center>
 
 ---
-Ever since I wrote my first line of code, I have been excited about gaining new knowledge and developing my skills in programming.
-Now I'm in the process of improving my skills: C#/.NET
+<h4 align="center">Ever since I wrote my first line of code, I have been excited about gaining new knowledge and developing my skills in programming.
+Now I'm in the process of improving my skills: C#/.NET</h4>
 
-I would describe myself as self-motivated, accurate, communicative and friendly.
+<h4 align="center">I would describe myself as self-motivated, accurate, communicative and friendly.</h4>
 
 📌 [LinkedIn](https://www.linkedin.com/in/kristers-oskars-briedis/)
 <br>
