@@ -1,8 +1,9 @@
 <center>
     <img src="https://github.com/KOBriedis/KOBriedis/blob/main/assets/main_banner.gif" alt="centered image"/>
-</center>
+</center> 
+<br>
+<h1 align="center">C#/.NET Developer</h1>
 
----
 <h4 align="center">Ever since I wrote my first line of code, I have been excited about gaining new knowledge and developing my skills in programming.
 Now I'm in the process of improving my skills: C#/.NET</h4>
 
